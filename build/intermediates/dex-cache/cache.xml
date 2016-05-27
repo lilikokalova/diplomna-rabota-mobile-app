@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ELSYS-school\diplomna\OCR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\ELSYS-school\diplomna\OCR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_9fb15c944e8cb830a88de287d63bd34ac6d4fde9.jar" />
+    </item>
+
+</items>
